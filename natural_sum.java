@@ -23,7 +23,7 @@ class Ideone
 		}
 		else
 		{
-			System.out.println("cannot find the sum of natural numbers ");
+			System.out.println("0");
 		}
 	}
 }
